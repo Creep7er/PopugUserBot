@@ -4,7 +4,7 @@
 https://github.com/Creep7er/PopugUserBot.git
 python3 install.py
 
-Вводите id и апи хеш а также номер телефона куда вы устанавливаете PpugUserBot
+Вводите id и апи хеш а также номер телефона куда вы устанавливаете PopugUserBot
 
 Далее вводите python3 ub.py 
 
