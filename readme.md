@@ -3,7 +3,7 @@
 Открываем терминал
 Вводим:
 git clone https://github.com/Creep7er/PopugUserBot.git
-Далее
+cd PopugUserBot
 python3 install.py
 
 Вводите id и апи хеш а также номер телефона куда вы устанавливаете PopugUserBot
